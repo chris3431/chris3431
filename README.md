@@ -7,7 +7,7 @@
   
   ![Css](https://img.shields.io/badge/Css-0516ff?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>
   
-  ![Html](https://img.shields.io/badge/Html-ff7105?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
+  ![Html](https://img.shields.io/badge/html-ff7105?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
   
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-c105ff?style=for-the-badge&logo=bootstrap&logoColor=violet&labelColor=ffffff)</br>
   
