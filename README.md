@@ -1,7 +1,7 @@
 ### Hi there , my name is Cristopher Herrera
 
-####I am a young computer engineering practitioner, one of my hobbies is programming.
-####Here are some ideas to get you started:
+I am a young computer engineering practitioner, one of my hobbies is programming.
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
