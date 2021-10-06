@@ -3,4 +3,4 @@
 ### I am a young computer engineering practitioner, one of my hobbies is programming.
 
 ## Skills:
-  ![Java](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
+  ![Java](https://img.shields.io/badge/Android-300C84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
