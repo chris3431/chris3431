@@ -9,6 +9,6 @@
   
   ![Html](https://img.shields.io/badge/Html-ff7105?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
   
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-c105ff?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=ffffff)</br>
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-c105ff?style=for-the-badge&logo=bootstrap&logoColor=violet&labelColor=ffffff)</br>
   
   ![Python](https://img.shields.io/badge/Python-ffda05?style=for-the-badge&logo=Python&logoColor=white&labelColor=0561ff)</br>
